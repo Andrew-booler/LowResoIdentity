@@ -19,7 +19,7 @@ for k in range(1,16):
         dic=[tmp]
     else:
         dic.append(tmp)
-plt.imshow(dic[0])
-plt.set_cmap('gray')
-plt.axis('off')
-plt.show()
+print (dic[0])
+cv2.imshow('grad',dic[0])
+cv2.imshow('img',cv2.imread('F:/mine/FaceImg/1/s1.bmp'))
+cv2.waitKey(0)

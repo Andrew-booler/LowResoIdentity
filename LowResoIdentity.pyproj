@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>cf840ba2-2840-42b6-a66c-1a0f1ea2ccfe</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>gradattempt.py</StartupFile>
+    <StartupFile>LowResoIdentity.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
